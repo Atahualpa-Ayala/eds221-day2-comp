@@ -1,0 +1,9 @@
+---
+title: "day 2 computationa Session"
+format: html
+editor: visual
+execute: 
+  warning: false
+  message: false
+
+---
